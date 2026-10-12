@@ -1,0 +1,16 @@
+StudentID,Name,Gender,Age,MathScore,ScienceScore,EnglishScore,StudyHours
+1,Rahul,Male,20,78,81,75,4
+2,Sneha,Female,21,88,90,85,6
+3,Amit,Male,19,65,70,68,3
+4,Priya,Female,20,92,95,91,7
+5,Rohan,Male,22,56,60,58,2
+6,Neha,Female,21,74,78,80,5
+7,Arjun,Male,20,83,85,82,6
+8,Pooja,Female,19,69,72,70,4
+9,Karan,Male,22,95,94,96,8
+10,Anjali,Female,20,81,84,86,5
+11,Vikram,Male,21,72,75,70,4
+12,Meera,Female,22,90,89,93,7
+13,Sahil,Male,20,61,64,60,3
+14,Kavya,Female,19,77,79,81,5
+15,Nikhil,Male,21,86,88,84,6
