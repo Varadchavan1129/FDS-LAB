@@ -1,0 +1,38 @@
+import numpy as np
+
+numbers1 = np.array([1, 2, 2, 4, 5, 6])
+numbers2 = np.array([1, 4, 8, 5, 9])
+
+print(np.mean(numbers1))
+print(np.sum(numbers1))
+print(np.sqrt(numbers1))
+print(np.exp(numbers1))
+
+identity_matrix = np.eye(2, 3)
+print(identity_matrix)
+
+ones_matrix = np.ones((2, 3))
+print(ones_matrix)
+
+zeros_matrix = np.zeros((3, 4))
+print(zeros_matrix)
+
+range_array = np.arange(1, 10, 2)
+print(range_array)
+
+linear_array = np.linspace(1, 10, 5)
+print(linear_array)
+
+random_matrix = np.random.rand(2, 4)
+print(random_matrix)
+
+print(np.min(numbers1))
+print(np.max(numbers1))
+print(np.sort(numbers1))
+
+print(np.min(numbers2))
+print(np.max(numbers2))
+print(np.sort(numbers2))
+print(np.sum(numbers2))
+print(np.sqrt(numbers2))
+print(np.exp(numbers2))
